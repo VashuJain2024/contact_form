@@ -48,3 +48,8 @@ Efforts to fix the issue are underway.
    ```bash
    git clone https://github.com/VashuJain2024/contact_form.git
    cd contact_form
+
+---
+
+## Output
+![Screenshot 2025-01-02 210608](https://github.com/user-attachments/assets/637371dd-4797-4cb5-9f6f-171ff4f90d89)
